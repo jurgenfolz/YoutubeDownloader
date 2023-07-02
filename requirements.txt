@@ -1,0 +1,4 @@
+Pillow==9.4.0
+Pillow==10.0.0
+ttkthemes==3.2.2
+yt_dlp==2023.6.22
